@@ -1,0 +1,19 @@
+Thank you for downloading the source code!
+
+Default Admin login credentials
+	Admin Email: admin@admin.com
+	Admin Password: 1111
+
+Default User login credentials
+	Admin Email: mofi@gmail.com
+	Admin Password: 1111
+
+
+link to access homepage
+http://localhost/mofi_work
+
+
+
+The system recognized Admin and Customers automatically using a sigle login dashboard by identifying their type of rank or privilleges
+
+

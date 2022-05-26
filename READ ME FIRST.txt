@@ -5,8 +5,8 @@ Default Admin login credentials
 	Admin Password: 1111
 
 Default User login credentials
-	Admin Email: mofi@gmail.com
-	Admin Password: 1111
+	Admin Email:
+	Admin Password: 
 
 
 link to access homepage
